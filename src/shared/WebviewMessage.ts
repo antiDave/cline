@@ -75,7 +75,7 @@ export interface WebviewMessage {
 	serverName?: string
 	toolName?: string
 	autoApprove?: boolean
-	
+
 	// For openInBrowser
 	url?: string
 }
